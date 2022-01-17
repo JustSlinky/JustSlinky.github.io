@@ -1,0 +1,10 @@
+body {
+    background-color: #1d1e22;
+  }
+.terror-middle-text {
+  text-align: center;
+  padding: 300px 0;
+  font-size: 100px;
+  color: white;
+  font-family: 'Rubik', sans-serif;
+}
